@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|p:\\aimil workspace\\git repo\\ai-integration\\aillm\\services\\sqlagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|solutionrelative:services\\sqlagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|p:\\aimil workspace\\git repo\\ai-integration\\aillm\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|solutionrelative:controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|p:\\aimil workspace\\git repo\\ai-integration\\aillm\\knowledge\\okf\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|solutionrelative:knowledge\\okf\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|p:\\aimil workspace\\git repo\\ai-integration\\aillm\\services\\okfknowledgeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E6778-4F7E-4B37-BC99-C5BBB5060E31}|AILLM.csproj|solutionrelative:services\\okfknowledgeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.md",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Knowledge\\OKF\\index.md",
+              "RelativeDocumentMoniker": "Knowledge\\OKF\\index.md",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Knowledge\\OKF\\index.md",
+              "RelativeToolTip": "Knowledge\\OKF\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T10:48:13.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnalyticsController.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:02:09.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlAgentService.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Services\\SqlAgentService.cs",
+              "RelativeDocumentMoniker": "Services\\SqlAgentService.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Services\\SqlAgentService.cs",
+              "RelativeToolTip": "Services\\SqlAgentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:41:02.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OkfKnowledgeService.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Services\\OkfKnowledgeService.cs",
+              "RelativeDocumentMoniker": "Services\\OkfKnowledgeService.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\AI-Integration\\AILLM\\Services\\OkfKnowledgeService.cs",
+              "RelativeToolTip": "Services\\OkfKnowledgeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:43:14.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

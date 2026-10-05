@@ -1,0 +1,6 @@
+@AILLM_HostAddress = http://localhost:5011
+
+GET {{AILLM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
